@@ -59,7 +59,7 @@
           <mxGeometry height="30" width="60" x="435" y="230" as="geometry" />
         </mxCell>
         <mxCell id="sZwMkhfLauDglejVv3wY-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="F1-AP02" vertex="1">
-          <mxGeometry height="30" width="60" x="505" y="400" as="geometry" />
+          <mxGeometry height="30" width="60" x="480" y="395" as="geometry" />
         </mxCell>
         <mxCell id="sZwMkhfLauDglejVv3wY-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Office" vertex="1">
           <mxGeometry height="30" width="60" x="130" y="150" as="geometry" />
@@ -87,6 +87,12 @@
         </mxCell>
         <mxCell id="sZwMkhfLauDglejVv3wY-35" parent="1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.stairsRest;" value="" vertex="1">
           <mxGeometry height="102" width="180" x="580" y="278" as="geometry" />
+        </mxCell>
+        <mxCell id="sZwMkhfLauDglejVv3wY-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="2.4 GHz Ch 1&lt;div&gt;5 GHz Ch 36&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="105" x="420" y="248" as="geometry" />
+        </mxCell>
+        <mxCell id="sZwMkhfLauDglejVv3wY-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="2.4 GHz Ch 6, 5GHz Ch 44" vertex="1">
+          <mxGeometry height="30" width="215" x="502.5" y="395" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
