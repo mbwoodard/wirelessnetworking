@@ -105,7 +105,7 @@
         <mxCell id="fgI5KIhPCc_eN-geYtdM-2" parent="fgI5KIhPCc_eN-geYtdM-1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="560" width="680" x="80" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="fgI5KIhPCc_eN-geYtdM-3" parent="fgI5KIhPCc_eN-geYtdM-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontColor=#143642;" value="First Floor" vertex="1">
+        <mxCell id="fgI5KIhPCc_eN-geYtdM-3" parent="fgI5KIhPCc_eN-geYtdM-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontColor=#143642;" value="Second Floor" vertex="1">
           <mxGeometry height="30" width="60" x="80" y="30" as="geometry" />
         </mxCell>
         <mxCell id="fgI5KIhPCc_eN-geYtdM-4" parent="fgI5KIhPCc_eN-geYtdM-1" style="line;strokeWidth=2;direction=south;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" value="" vertex="1">
@@ -150,13 +150,13 @@
         <mxCell id="fgI5KIhPCc_eN-geYtdM-17" parent="fgI5KIhPCc_eN-geYtdM-1" style="line;strokeWidth=4;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" value="" vertex="1">
           <mxGeometry height="160" width="10" x="630" y="420" as="geometry" />
         </mxCell>
-        <mxCell id="fgI5KIhPCc_eN-geYtdM-18" parent="fgI5KIhPCc_eN-geYtdM-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontColor=#143642;" value="Network Room (MDF)" vertex="1">
+        <mxCell id="fgI5KIhPCc_eN-geYtdM-18" parent="fgI5KIhPCc_eN-geYtdM-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontColor=#143642;" value="Network Room (IDF_2)" vertex="1">
           <mxGeometry height="30" width="150" x="352.5" y="100" as="geometry" />
         </mxCell>
-        <mxCell id="fgI5KIhPCc_eN-geYtdM-19" parent="fgI5KIhPCc_eN-geYtdM-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontColor=#143642;" value="F1-AP01" vertex="1">
-          <mxGeometry height="30" width="60" x="435" y="230" as="geometry" />
+        <mxCell id="fgI5KIhPCc_eN-geYtdM-19" parent="fgI5KIhPCc_eN-geYtdM-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontColor=#143642;" value="F2-AP01" vertex="1">
+          <mxGeometry height="30" width="60" x="435" y="225" as="geometry" />
         </mxCell>
-        <mxCell id="fgI5KIhPCc_eN-geYtdM-20" parent="fgI5KIhPCc_eN-geYtdM-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontColor=#143642;" value="F1-AP02" vertex="1">
+        <mxCell id="fgI5KIhPCc_eN-geYtdM-20" parent="fgI5KIhPCc_eN-geYtdM-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontColor=#143642;" value="F2-AP02" vertex="1">
           <mxGeometry height="30" width="60" x="480" y="395" as="geometry" />
         </mxCell>
         <mxCell id="fgI5KIhPCc_eN-geYtdM-21" parent="fgI5KIhPCc_eN-geYtdM-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontColor=#143642;" value="Office" vertex="1">
@@ -190,7 +190,7 @@
           <mxGeometry height="30" width="105" x="420" y="248" as="geometry" />
         </mxCell>
         <mxCell id="fgI5KIhPCc_eN-geYtdM-31" parent="fgI5KIhPCc_eN-geYtdM-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontColor=#143642;" value="2.4 GHz Ch 6, 5GHz Ch 44" vertex="1">
-          <mxGeometry height="30" width="215" x="502.5" y="395" as="geometry" />
+          <mxGeometry height="30" width="215" x="525" y="395" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
