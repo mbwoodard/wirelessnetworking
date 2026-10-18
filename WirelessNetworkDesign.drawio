@@ -52,8 +52,8 @@
         <mxCell id="sZwMkhfLauDglejVv3wY-14" parent="1" style="line;strokeWidth=4;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;" value="" vertex="1">
           <mxGeometry height="160" width="10" x="630" y="420" as="geometry" />
         </mxCell>
-        <mxCell id="sZwMkhfLauDglejVv3wY-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Network Room" vertex="1">
-          <mxGeometry height="30" width="60" x="390" y="100" as="geometry" />
+        <mxCell id="sZwMkhfLauDglejVv3wY-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Network Room (MDF)" vertex="1">
+          <mxGeometry height="30" width="150" x="352.5" y="100" as="geometry" />
         </mxCell>
         <mxCell id="sZwMkhfLauDglejVv3wY-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="F1-AP01" vertex="1">
           <mxGeometry height="30" width="60" x="435" y="230" as="geometry" />
